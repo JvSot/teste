@@ -16,6 +16,7 @@ public class Teste {
         Container caixa = janela.getContentPane();
         //FlowLayout flow = new FlowLayout();
         caixa.setLayout(new GridLayout(4,1));
+        //comentario
         
         JPanel parte1 = new JPanel(new FlowLayout(FlowLayout.CENTER));
         JPanel parte2 = new JPanel(new FlowLayout(FlowLayout.CENTER));
