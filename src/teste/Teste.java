@@ -17,6 +17,7 @@ public class Teste {
         //FlowLayout flow = new FlowLayout();
         caixa.setLayout(new GridLayout(4,1));
         //comentario
+        //comentario 2
         
         JPanel parte1 = new JPanel(new FlowLayout(FlowLayout.CENTER));
         JPanel parte2 = new JPanel(new FlowLayout(FlowLayout.CENTER));
